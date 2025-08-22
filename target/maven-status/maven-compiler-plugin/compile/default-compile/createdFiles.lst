@@ -1,0 +1,14 @@
+com\backtothereef\CreateDeviceController.class
+com\backtothereef\CreateDeviceController$1DispositivoRequest.class
+com\backtothereef\UpdateUserController$1UsuarioUpdateRequest.class
+com\backtothereef\UpdateUserController.class
+com\backtothereef\RegisterDeviceDataController$1DadosRequest.class
+com\backtothereef\GetDataByDeviceController.class
+com\backtothereef\CreateUserController$1UsuarioRequest.class
+com\backtothereef\GetDevicesByUserController.class
+com\backtothereef\LoginUserController.class
+com\backtothereef\RegisterDeviceDataController.class
+com\backtothereef\CreateUserController.class
+com\backtothereef\LoginUserController$1LoginRequest.class
+com\backtothereef\UpdateDeviceController$1DispositivoUpdateRequest.class
+com\backtothereef\UpdateDeviceController.class
